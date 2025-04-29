@@ -4,13 +4,7 @@
 <p align="center"><strong>Software Developer</strong></p>
 
 <p align="center">
-  <code>Python</code> |
-  <code>JavaScript</code> |
-  <code>Go</code> |
-  <code>C#</code> |
-  <code>React</code> |
-  <code>Django</code> |
-  <code>Node.js</code>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=HTML+%7C+Node.js+%7C+python+%7C+C%23+%7C+GO+%7C+SQL+%7C+Python+%7C+JavaScript+%7C+Go+%7C+C%23+%7C+React+%7C+Django" alt="Typing SVG" />
 </p>
 
 ---
