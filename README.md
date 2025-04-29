@@ -1,5 +1,6 @@
-![Welcome](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=print%28%22Welcome%21%22%29)
-
+<p align="center">
+![Welcome](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=print%28%22Welcome%21%22%29)
+</p>
 
 <h2 align="center">Carlos Piacente</h2>
 <p align="center"><strong>Software Developer</strong></p>
