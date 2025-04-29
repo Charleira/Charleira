@@ -1,15 +1,71 @@
-👋 Olá, eu sou Carlos Piacente!
-Bem-vindo(a) ao meu perfil no GitHub! Sou apaixonado(a) por tecnologia, desenvolvimento de software e soluções criativas. Aqui, você encontrará projetos que refletem meu aprendizado, experiência e paixão por criar coisas incríveis.
+<h1 align="center">print("Welcome!")</h1>
 
-🛠️ Tecnologias e Ferramentas
-Linguagens: Python, JavaScript, HTML, CSS, GO, C#.
-Frameworks: React, Node.js, Django
-Banco de Dados: MySQL, SqlServer, MongoDB
-Ferramentas: Git, Docker, VS Code
-🌱 Atualmente Estou Aprendendo
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-📫 Como Me Encontrar
-LinkedIn: [https://www.linkedin.com/in/carlos-eduardo-piacente-de-andrade-864222121/)
-E-mail: cadupiacente67@gmail.com
+<h2 align="center">Carlos Piacente</h2>
+<p align="center"><strong>Software Developer</strong></p>
+
+<p align="center">
+  <code>Python</code> |
+  <code>JavaScript</code> |
+  <code>Go</code> |
+  <code>C#</code> |
+  <code>React</code> |
+  <code>Django</code> |
+  <code>Node.js</code>
+</p>
+
+---
+
+### 👋 About Me
+
+I'm a passionate software developer who loves working with creative and functional technology solutions. I enjoy exploring modern web development with Python, JavaScript, and Go, and I'm always expanding my skillset with new tools and frameworks. I have experience in backend and frontend development, databases, containerization, and cloud tools.
+
+I love learning, building, and sharing.
+
+---
+
+### 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-piacente-de-andrade-864222121/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:cadupiacente67@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil!</p>
